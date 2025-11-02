@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MP3 Jukebox",
+  "description": "A web-based MP3 player that allows users to organize their music into genres by selecting local folders. It features a large, touch-friendly interface ideal for Android devices.",
+  "requestFramePermissions": []
+}
